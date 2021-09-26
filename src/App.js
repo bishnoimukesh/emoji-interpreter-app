@@ -84,7 +84,7 @@ export default function App() {
             <a
         id="github-repo"
         title="Source code for this app"
-        href="https://github.com/bishnoimukesh/emoji-interpretor-app"
+        href="https://github.com/bishnoimukesh/emoji-interpreter-app"
       >
         <i className="fab fa-github"></i>
       </a>
